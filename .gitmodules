@@ -1,0 +1,3 @@
+[submodule "apple"]
+	path = apple
+	url = git@github.com:sam-pty/apple.git
